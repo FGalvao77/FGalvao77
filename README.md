@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FGalvao77
+- 👋 Hi, I’m Fernando Galvão (@FGalvao77)
 - 👀 I’m interested in AI, Machine Learning, Deep Learning and Computer Vision.
-- 🌱 I’m currently learning Python for machine learning applications.
-- 💞️ I’m looking to collaborate on Data Science projects.
+- 🌱 I am currently learning Python for ML applications, also R and Kotlin.
+- 💞️ I'm looking to collaborate on Data Science projects and Android application development.
 - 📫 How to reach me through linkedin (https://www.linkedin.com/in/fergalvao/).
 
 <!---
