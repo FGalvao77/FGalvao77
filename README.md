@@ -3,6 +3,7 @@
 - 🌱 I am currently learning Python for ML applications, also R, Kotlin and Ruby.
 - 💞️ I'm looking to collaborate on Data Science projects and Android application development.
 - 📫 How to reach me through linkedin (https://www.linkedin.com/in/fergalvao/).
+- 🖥️ Follow the link of my projects and studies: https://bit.ly/3vY1FcR
 
 <!---
 FGalvao77/FGalvao77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
