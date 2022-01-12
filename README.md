@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Machine Learning, Deep Learning and Computer Vision.
 - 🌱 I am currently learning Python for ML applications, also R, Kotlin and Ruby.
 - 💞️ I'm looking to collaborate on Data Science projects and Android application development.
-- 📫 How to reach me through Linkedin: https://bit.ly/3f8adXH
+- 📫 How to reach me through LinkedIn: https://bit.ly/3f8adXH
 - 🖥️ Follow the link of my projects and studies: https://bit.ly/3vY1FcR
 
 <!---
